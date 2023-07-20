@@ -1,0 +1,20 @@
+function hello_world
+with arguments (), {}
+started at 2023-07-20 22:11:05.587232
+with result: Hello World
+
+function summator
+with arguments (2, 2), {}
+started at 2023-07-20 22:11:05.588231
+with result: 4
+
+function div
+with arguments (6, 2), {}
+started at 2023-07-20 22:11:05.588231
+with result: 3.0
+
+function summator
+with arguments (4.3,), {'b': 2.2}
+started at 2023-07-20 22:11:05.589232
+with result: 6.5
+
